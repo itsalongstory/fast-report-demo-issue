@@ -1,0 +1,12 @@
+D:\NET\fast-report-demo-issue\bin\Debug\fast-report-demo-issue.exe.config
+D:\NET\fast-report-demo-issue\bin\Debug\fast-report-demo-issue.exe
+D:\NET\fast-report-demo-issue\bin\Debug\fast-report-demo-issue.pdb
+D:\NET\fast-report-demo-issue\obj\Debug\fast-report-demo-issue.csproj.AssemblyReference.cache
+D:\NET\fast-report-demo-issue\obj\Debug\fast-report-demo-issue.csproj.SuggestedBindingRedirects.cache
+D:\NET\fast-report-demo-issue\obj\Debug\fast_report_demo_issue.Properties.Resources.resources
+D:\NET\fast-report-demo-issue\obj\Debug\fast-report-demo-issue.csproj.GenerateResource.cache
+D:\NET\fast-report-demo-issue\obj\Debug\fast-report-demo-issue.csproj.CoreCompileInputs.cache
+D:\NET\fast-report-demo-issue\obj\Debug\fast-report-demo-issue.csproj.CopyComplete
+D:\NET\fast-report-demo-issue\obj\Debug\fast-report-demo-issue.exe
+D:\NET\fast-report-demo-issue\obj\Debug\fast-report-demo-issue.pdb
+D:\NET\fast-report-demo-issue\obj\Debug\fast_report_demo_issue.Form1.resources
